@@ -1,0 +1,57 @@
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\bin\Debug\GSB.exe.config
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\bin\Debug\GSB.exe
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\bin\Debug\GSB.pdb
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\bin\Debug\MySql.Data.dll
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.Form1.resources
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.exe
+c:\users\programmation\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\Programmation\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.Login.resources
+C:\Users\Programmation\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.csprojResolveAssemblyReference.cache
+C:\Users\Programmation\Desktop\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Users\Programmation\Desktop\GSB\GSB\obj\Debug\GSB.exe
+C:\Users\Programmation\Desktop\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\Programmation\Desktop\GSB\GSB\bin\Debug\GSB.exe
+C:\Users\Programmation\Desktop\GSB\GSB\bin\Debug\GSB.pdb
+C:\Users\Programmation\Desktop\GSB\GSB\bin\Debug\MySql.Data.dll
+C:\Users\Programmation\Desktop\GSB\GSB\bin\Debug\MySql.Data.xml
+C:\Users\Programmation\Desktop\GSB\GSB\obj\Debug\GSB.csprojResolveAssemblyReference.cache
+C:\Users\Programmation\Desktop\GSB\GSB\obj\Debug\GSB.Form1.resources
+C:\Users\Programmation\Desktop\GSB\GSB\obj\Debug\GSB.Login.resources
+C:\Users\Programmation\Desktop\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+C:\Users\Programmation\Desktop\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
+C:\Users\jpicard\documents\visual studio 2015\Projects\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Users\jpicard\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.exe
+C:\Users\jpicard\documents\visual studio 2015\Projects\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\bin\Debug\GSB.exe
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\bin\Debug\GSB.pdb
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\bin\Debug\MySql.Data.dll
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\bin\Debug\MySql.Data.xml
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\obj\Debug\GSB.csprojResolveAssemblyReference.cache
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\obj\Debug\GSB.Form1.resources
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\obj\Debug\GSB.Login.resources
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+C:\Users\jpicard\Documents\Visual Studio 2015\Projects\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\obj\Debug\GSB.exe
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\bin\Debug\GSB.exe
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\bin\Debug\GSB.pdb
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\bin\Debug\MySql.Data.xml
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\obj\Debug\GSB.csprojResolveAssemblyReference.cache
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\obj\Debug\GSB.Form1.resources
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\obj\Debug\GSB.Login.resources
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+C:\Users\Kei\Desktop\AngelinaMiglioreJeremyPicard\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\obj\Debug\GSB.exe
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\bin\Debug\GSB.exe
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\bin\Debug\GSB.pdb
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\bin\Debug\MySql.Data.xml
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\obj\Debug\GSB.csprojResolveAssemblyReference.cache
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\obj\Debug\GSB.Form1.resources
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\obj\Debug\GSB.Login.resources
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+C:\Users\Kei\Desktop\PPE1\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.Cache
